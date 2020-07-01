@@ -1,5 +1,3 @@
 # How to code in Go 中文版
 
-- [前言](https://github.com/xueyuanjun/how-to-code-in-go/blob/master/perface.md)
-- [简介](https://github.com/xueyuanjun/how-to-code-in-go/blob/master/introduction.md)
-- [如何在 Ubuntu 搭建本地开发环境](https://github.com/xueyuanjun/how-to-code-in-go/blob/master/ubuntu.md)
+本项目已经转移到 https://github.com/ride-the-wind-and-waves/how-to-code-in-go 进行维护
